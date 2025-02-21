@@ -26,7 +26,7 @@ I'm a passionate software developer with a keen interest in building impactful s
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamAnish18&layout=compact&theme=dark)
+![Top Languages](https://camo.githubusercontent.com/e6dc9d6defad7be27fb2dac2366b523f88cacf90668ca9aae379053661a54218/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d69616d416e6973683138266c61796f75743d636f6d70616374)
 
 ## Connect with Me
 
