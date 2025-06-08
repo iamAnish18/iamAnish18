@@ -18,9 +18,21 @@ I'm a passionate software developer with a keen interest in building impactful s
 </p>
 
 
-## GitHub Stats
+## 🏆 Trophies & Contributions
 
-![iamAnish18's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamAnish18&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamAnish18&theme=radical&margin-w=10&margin-h=15&row=1&column=6" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamAnish18&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamAnish18&show_icons=true&theme=algolia&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamAnish18&bg_color=1a1b27&color=0ef7e9&line=0ef7e9&point=f5f5f5&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
+
+---
 
 ## Top Languages
 
