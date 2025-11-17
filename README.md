@@ -62,8 +62,6 @@ I'm a passionate software developer with a keen interest in building impactful s
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=iamAnish18&bg_color=22272e&color=0ef7e9&line=0ef7e9&point=f5f5f5&area=true&hide_border=true" alt="Contribution graph for iamAnish18" style="margin-top:10px; border-radius:8px;" />
 </p>
 
-> Note: Some third-party image services can be intermittent. If any of these images break, consider replacing them with alternate hosted versions or locally generated badges.
-
 ---
 
 ## Top Languages
